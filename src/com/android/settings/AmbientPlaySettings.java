@@ -37,7 +37,7 @@ public class AmbientPlaySettings extends DashboardFragment {
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.DISPLAY_SETTINGS;
+        return MetricsEvent.AMBIENTPLAY_DISPLAY_SETTINGS;
     }
 
     @Override
